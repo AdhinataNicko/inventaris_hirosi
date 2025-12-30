@@ -11,7 +11,7 @@ Aplikasi ini dikembangkan sebagai Project Akhir mata kuliah Pemrograman Web.
 - Cantika Meilani (2413030024)  
 - Panji Satria Mahatir (2413030042)  
 - Adhinata Nickola Wiratama (2413030040)  
-- **Inka Aulia Murdin Ningsih (2413030051)**  
+- Inka Aulia Murdin Ningsih (2413030051)  
 
 ---
 

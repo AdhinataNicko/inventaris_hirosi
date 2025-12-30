@@ -177,16 +177,16 @@
 
                 // ---- CRUD INVENTARIS ----
                 case 'inventaris':
-                    include "inventaris/inventaris.php";
+                    include "inventaris_barang/inventaris.php";
                     break;
                 case 'tambah_inventaris':
-                    include "inventaris/tambah_inventaris.php";
+                    include "inventaris_barang/tambah_inventaris.php";
                     break;
                 case 'edit_inventaris':
-                    include "inventaris/edit_inventaris.php";
+                    include "inventaris_barang/edit_inventaris.php";
                     break;
                 case 'hapus_inventaris':
-                    include "inventaris/hapus_inventaris.php";
+                    include "inventaris_barang/hapus_inventaris.php";
                     break;
 
                 default:
