@@ -7,22 +7,18 @@ switch ($request) {
     case 'GET':
         getmethod();
         break;
-
     case 'PUT':
         $data = json_decode(file_get_contents('php://input'), true);
         putmethod($data);
         break;
-
     case 'POST':
         $data = json_decode(file_get_contents('php://input'), true);
         postmethod($data);
         break;
-
     case 'DELETE':
         $data = json_decode(file_get_contents('php://input'), true);
         deletemethod($data);
         break;
-
     default:
         echo '{"name": "data not found"}';
         break;
