@@ -67,6 +67,7 @@ Data barang yang dikelola meliputi:
 
 
 ### Cara Menjalankan
+**KEY API = 123**
 1. Clone repository
 2. Buat database `inventaris_hirosi`
 3. Import file `database/inventaris_hirosi.sql`
