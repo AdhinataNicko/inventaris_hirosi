@@ -6,6 +6,10 @@ Sistem Inventaris Barang HIROSI merupakan aplikasi web yang dikembangkan untuk m
 Aplikasi ini dikembangkan sebagai Project Akhir mata kuliah Pemrograman Web.
 
 ---
+## Tampilan Sistem
+![dashboard home page](https://github.com/user-attachments/assets/5687f3ae-1ecd-4e3f-a0be-aeac6bc8cf43)
+![profil](https://github.com/user-attachments/assets/cb730cdd-f090-47e7-a686-b5f3a91d7f07)
+![menu inventaris barang](https://github.com/user-attachments/assets/0d50f1bf-1ead-48f5-95e2-a979d8df52fc)
 
 ## Tim Pengembang
 - Cantika Meilani (2413030024)  
