@@ -86,8 +86,4 @@ Data barang yang dikelola meliputi:
 4. Atur koneksi di `koneksi.php`
 5. Jalankan di localhost xampp / hosting
 
-
-### POSTER
-![poster](https://github.com/user-attachments/assets/d777a348-a08b-4922-8211-14481295f402)
-
 ~kelompok 7 ^^
