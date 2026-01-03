@@ -1,4 +1,6 @@
 # Sistem Inventaris Barang HIROSI
+![poster](https://github.com/user-attachments/assets/8b3bfbc8-076e-4a0a-abe1-8b7137b00243)
+
 
 ## Deskripsi Project
 Sistem Inventaris Barang HIROSI merupakan aplikasi web yang dikembangkan untuk membantu pengelolaan data inventaris barang pada organisasi HIROSI. Sistem ini dirancang untuk memudahkan proses pencatatan, pengelolaan, dan pemantauan kondisi barang secara terstruktur dan efisien.
@@ -21,7 +23,7 @@ Aplikasi ini dikembangkan sebagai Project Akhir mata kuliah Pemrograman Web.
 ---
 ## Tim Pengembang
 - Cantika Meilani (2413030024)  
-- Panji Satria Mahatir (2413030042)  
+- Panji Satria Nurfadlilla (2413030042)  
 - Adhinata Nickola Wiratama (2413030040)  
 - Inka Aulia Murdin Ningsih (2413030051)  
 
