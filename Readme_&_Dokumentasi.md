@@ -1,4 +1,4 @@
-![poster](https://github.com/user-attachments/assets/e54cc5c7-4168-46e4-a00e-6deed6a9601e)![poster](https://github.com/user-attachments/assets/cb339abf-5a2e-4023-bdac-19ca9450c3cd)![test API update](https://github.com/user-attachments/assets/ab5142c2-6430-4cbf-98d9-5c53933efb7b)# Sistem Inventaris Barang HIROSI
+# Sistem Inventaris Barang HIROSI
 
 ## Deskripsi Project
 Sistem Inventaris Barang HIROSI merupakan aplikasi web yang dikembangkan untuk membantu pengelolaan data inventaris barang pada organisasi HIROSI. Sistem ini dirancang untuk memudahkan proses pencatatan, pengelolaan, dan pemantauan kondisi barang secara terstruktur dan efisien.
